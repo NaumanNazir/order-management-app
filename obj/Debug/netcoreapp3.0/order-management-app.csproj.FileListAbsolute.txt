@@ -33,3 +33,4 @@ C:\Users\Nauman\Desktop\Web dev\asp.net\order-management-app\obj\Debug\netcoreap
 C:\Users\Nauman\Desktop\Web dev\asp.net\order-management-app\obj\Debug\netcoreapp3.0\order-management-app.dll
 C:\Users\Nauman\Desktop\Web dev\asp.net\order-management-app\obj\Debug\netcoreapp3.0\order-management-app.pdb
 C:\Users\Nauman\Desktop\Web dev\asp.net\order-management-app\obj\Debug\netcoreapp3.0\order-management-app.csproj.CopyComplete
+C:\Users\Nauman\Desktop\Web dev\asp.net\order-management-app\bin\Debug\netcoreapp3.0\libman.json
